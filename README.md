@@ -1,2 +1,3 @@
 # game-archive
-i will put games ROMS here so you can play them u can either use a emulator like my boy or vba or use cattns gba 2.0s play rom feature
+i will put games ROMS here so you can play them u can either use a emulator like my boy or vba or use cattns gba 2.0s play rom feature.
+these are the zip files just go to zipextractor.app and then unzip. extract to google drive and when is is done view file. now that u are in your drive download that file again. now that is the ROM file. go to cattns gba2.0 and click on play ROM. click upload and then select the NEW file. if it asks you what console it was on make sure u know look at the .whatever if it is a .gba it is a gba file. if it says .md it is a sega mega drive file just figure it out ur self. and yeh u should be done to download files go to the github <a href="https://github.com/alvarclicker/game-archive/">HERE</a>
